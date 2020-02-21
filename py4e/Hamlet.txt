@@ -1,0 +1,2 @@
+hi everyone welcom py4e 
+today we're going to talk about String in PYTHON.
